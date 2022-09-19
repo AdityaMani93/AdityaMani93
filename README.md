@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,machine learning & tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- maid id aditya.mani93@gmail.com
+- mail id aditya.mani93@gmail.com
 
 <!---
 AdityaMani93/AdityaMani93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
